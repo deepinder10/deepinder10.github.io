@@ -1,13 +1,13 @@
 # Base blog settings
-baseurl                      : "/dactl/" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "" # the base hostname & protocol for your site
+url                          : "deepinder10.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : Deepinder's Blog
   description                  : >
-                               this should contain a proper description
+                               Front End Developer (Angular)
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -26,11 +26,11 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Deepinder Singh
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
+  mail                      : sdeepinder8@gmail.com # change to your e-mail address
+  twitter                   : iamdeepinder
+  github                    : deepinder10
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
